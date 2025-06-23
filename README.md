@@ -51,7 +51,7 @@ Hi, I'm **Hend Eid**! A Mobile Developer and Data Analyst specializing in Flutte
 ## **📫 Connect with Me**
 * **Portfolio**: [hend-eid.vercel.app](https://hend-eid.vercel.app/)
 * **Email**: eng.hend.eid@gmail.com
-* **LinkedIn**: [Connect with me](https://linkedin.com/in/hend-eid)
+* **LinkedIn**: [Connect with me](https://www.linkedin.com/in/hend-eid-29971417b/)
 
 ---
 
