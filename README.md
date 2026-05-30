@@ -1,9 +1,9 @@
 # **Welcome to My GitHub Profile!**
 
-Hi, I'm **Hend Eid**! A Mobile Developer and Data Analyst specializing in Flutter with 3+ years of experience in delivering high-performance applications with exceptional user experiences and data-driven insights.
+Hi, I'm **Hend Eid**! A Mobile Developer and Data Analyst specializing in Flutter with 2+ years of experience in delivering high-performance applications with exceptional user experiences and data-driven insights.
 
 ## **🚀 About Me**
-* **Senior Flutter Developer @ Independent Contractor**: Optimizing Flutter applications and achieving 35% reduction in memory usage 📱⚡
+* ** Flutter Developer @ Independent Contractor**: Optimizing Flutter applications and achieving 35% reduction in memory usage 📱⚡
 * **Data Analytics Specialist**: Transforming complex data into actionable insights for business growth 📊📈
 * **Deployment Expert**: Managing deployment processes across Google Play and Apple App Store platforms 🚀
 * **Machine Learning Enthusiast**: Applying AI/ML techniques to enhance application performance and user experience 🤖
