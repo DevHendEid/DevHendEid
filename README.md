@@ -41,7 +41,6 @@ Hi, I'm **Hend Eid**! A Mobile Developer and Data Analyst specializing in Flutte
 
 ## **🎓 Education & Certifications**
 * **Bachelor's in Computer Information Systems** - Al-Quds Open University
-* **Bachelor's in Physics** - Islamic University
 * **Machine Learning** - Coursera (2023)
 * **Data Analytics** - Udacity (2023)
 
